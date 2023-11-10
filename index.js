@@ -123,7 +123,7 @@ const keys = {
 const SPEED = 2
 const ROTATIONAL_SPEED = 0.05
 const FRICTION = 0.95
-const PROJECTILE_SPEED = 3
+const PROJECTILE_SPEED = 4
 
 const projectiles = []
 const asteroids = []
